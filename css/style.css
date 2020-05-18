@@ -1,0 +1,48 @@
+.nav-wrapper{
+    background-color: #6f4037;
+}    
+.slider .indicators .indicator-item.active{
+    background-color: #6f4037;
+}
+.brand-logo{
+    margin-left: 30px;
+    font-family: cursive;
+}
+.move{
+    margin-top: 60px;
+    margin-bottom: 50px;
+   
+}
+.parallax-container{
+    min-height: 250px;
+    height: auto;
+}
+.icon-coffee{
+    color: #6f4037;
+}
+.footer-one{
+    background: #6f4037;
+}
+.footer-two{
+    background: #462822;
+}
+.list-style{
+    margin-left: 900px;
+}
+.list-text-style{
+    margin: 0;
+    margin-bottom: 100px;
+}
+.list-text-style1{
+    margin: 0;
+}
+.slider{
+    font-family: cursive;
+}
+.header{
+    font-family: cursive;
+    color:#6f4037;
+}
+.shade {
+    background-color: #6f4037;
+}
